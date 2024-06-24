@@ -1,0 +1,6 @@
+export * from './auth/auth-student.module'
+export * from './account/account.module'
+export * from './class/class.module'
+export * from './assignment/assignment.module'
+export * from './comment/comment.module'
+export * from './practice-room/practice-room.module'
